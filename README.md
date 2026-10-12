@@ -3,6 +3,8 @@ iPhone Duo multiplayer grid-based battle game for friends and family....and enem
 
 INSERT IMAGE HERE
 
+Add jstanfordcarey and UXLabPro to this repo
+
 Release Day (Oct 31) Price: $0 with $1 upgrade ton Astroship Pro
 Price: $4.69 per iPhone
 
