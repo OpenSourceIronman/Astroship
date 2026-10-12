@@ -3,10 +3,11 @@ iPhone Duo multiplayer grid-based battle game for friends and family....and enem
 
 INSERT IMAGE HERE
 
-Price: $4.42 per iPhone
+Release Day (Oct 31) Price: $0 with $1 upgrade ton Astroship Pro
+Price: $4.69 per iPhone
 
-TestFlight Beta: Coming Nov 2026
-App Store Public Release: Coming Dec 2026
+TestFlight Beta: Coming Oct, 18 2026
+App Store Public Release: Coming Oct 31 2026
 
 Play local against Apple Foundation Model AI 
 Play against human local or anywhere on or above Earth. 
