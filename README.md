@@ -33,6 +33,7 @@ Play against human local or anywhere on or above Earth.
 ## Astroship Product Requirement Document: 
 SOFT[]{Blaze S}: The Astroship app shall TODO
 HARD[]{Blaze S}: The iphone Duo shall TODO
+The other major thing is the Game Center on App Store and in app, this handles some rankings, small profiles, and single sign on if you have Apple Game to boost downloads by 2x
 
 <br><br>
 ## Future Work:
