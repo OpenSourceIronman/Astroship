@@ -27,5 +27,5 @@ SOFT[]{Blaze S}: The Astroship app shall TODO
 HARD[]{Blaze S}: The iphone Duo shall TODO
 
 Future Work:
-1. Apple pencil photon torpedo wrapper coming soon!
+1. Apple Pencil (USB-C) photon torpedo wrapper coming soon! See https://www.apple.com/xc/product/MUWA3AM/A
 2. Voice command support coming not soon :) 
