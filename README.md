@@ -61,11 +61,13 @@ Table 1 – Local document acronyms and initialisms <br>
 This document defines the business and engineering requirements for an iPhone Duo multiplayer grid-based battle game.
 
 #### 1.1	Requirement Identifier 
-Each requirement has a unique identifier according to the following structure: Domain-<Number>[Tag] (e.g. SYSA-001[QC] = System Attribute #1 regarding Quality Control). Where Domain will be one of the following: CERT (certification), ELEC (electrical), MECH (mechanical), INTE (external interface), PROJ (project management), REGU (regulatory), SOFT (software), SYSA (system attribute). <br>
+Each requirement has a unique identifier according to the following structure: Domain-<Number>[Tag]{Author} (e.g. SYSA-001[QC]{Blaze S} = System Attribute #1 regarding Quality Control authored by Blaze Sanders). 
+
+Where Domain will be one of the following: CERT (certification), ELEC (electrical), MECH (mechanical), INTE (external interface), PROJ (project management), REGU (regulatory), SOFT (software), SYSA (system attribute). <br>
 
 Where Tag may be one of the following short (< 10 characters preferred) tags to make database searching and filtering easier: Power, Interface, Strength, Bandwidth, Quantity, Cost, Location, Schedule, UX (User Experience), UI (User Interface), Color, Material, Sourcing, Safety, Security, API (Application Programing Interface), Testing, Logs, QC (Quality Control), QA (Quality Assurance), OS (Operating System), OTA (Over The Air updates), Process, Performance, ADD_NEW_TAGS_HERE. <br>
 
-And where Author is a first name and first letter of the last name of the human that wrote the requirement. This wil not be used to blame the author, but instead be used to ask the author what their thinking and base assumptions where when writing the requirment. [SOURCE](https://www.goodreads.com/quotes/11819361-1-question-every-requirement-each-should-come-with-the-name)
+Where Author is a first name and first letter of the last name of the human that wrote the requirement. This wil not be used to blame the author, but instead be used to ask the author what their thinking and base assumptions where when writing the requirment. [SOURCE](https://www.goodreads.com/quotes/11819361-1-question-every-requirement-each-should-come-with-the-name)
 
 All units shall be metric International System of Units (SI), with imperial units added only for convenience for weight. If a numerical value is not labeled, assume SI units are being used. <br>
 
@@ -186,6 +188,7 @@ CERT-001[Process]{Blaze S}: Where certifications exist, suppliers shall provide 
 1. How to [create tables in Markdown](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 2. To view SQLite database TODO.db or MySQL database TODO) use the following SQL statements:
 * SELECT * FROM  "Requirements" WHERE "note" LIKE '%See%' ORDER BY "id" ASC LIMIT 300 OFFSET 0;
+3. [Game Music Design](https://kierannolan.com/bitbas/) 
 
 
 
