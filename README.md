@@ -5,12 +5,6 @@ iPhone Duo multiplayer grid-based battle game for friends and family....and enem
 
 <br><br>
 
-## Task List:
-* Feedback on Customs Building, Brand, Marketing, and a Front End from iMessage chat with UXLabPro
-* Game Center, it was more tied to Apple Arcade games before, but now they are two distinct things. Apple Arcade is a limited market, but using Game Center for data doesn’t have anything to do with that, though the app is more likely to be accepted into the Apple Arcade if it uses Game
-* Sol-X LLC registered in Las Vegas, NV for $495 Blaze is 100% owner 
-
-<br><br>
 ## Astroship Product Requirement Document: 
 
 ## Table of Contents
@@ -76,23 +70,21 @@ In expressing requirements, the following terminology will be used:
 Release Day (Oct 31) Price: $0 with $1 upgrade ton Astroship Pro
 Price: $4.69 per iPhone
 
-TestFlight Beta: Coming Oct, 18 2026
+TestFlight Beta: Coming Oct 18, 2026
 * blaze.d.a.sanders@gmail.com 
 * i@blazesanders.com
 * mikeumus@protonmail.com 
-App Store Public Release: Coming Oct 31 2026
 
-Play local against Apple Foundation Model AI 
-Play against human local or anywhere on or above Earth. 
-
+App Store Public Release: Coming Oct 31, 2026
 * v20206.0: Minimally Viable Product with basis graphic, audio, and local single player game play loop. 
 * v20206.1: TODO
-* 
+  
 ### 2.1	Hardware Block Diagram
-### 2.2	Principle Functionality Explained
+TODO
 
-1. Swift UI front-end 
-2. Opensource Linode Linux Python FastAPI VPS SQLite backend to sync multiplayer matches and allow long term support of game even if we go out of business. 
+
+### 2.2	Principle Functionality Explained
+TODO
 
 
 ### 3	Functional Requirements
@@ -115,8 +107,10 @@ MECH-005[Color]{Blaze S}: Sol-X LLC shall sell a custom vinyl wrapper for the [A
 <br><br>
 
 ### 3.3	Software Requirements (SOFT-###)
-SOFT-0001[UI]{Blaze S}: Astroship v2026.0 front-end assets shall be licensed from UX Lab Pro.
-
+SOFT-0001[UI]{Blaze S}: Astroship v2026.0 Swift UI front-end assets shall be licensed from UX Lab Pro.
+SOFT-002[UX]{CD}: Astroship v2026.0 shall have a single player local game mode with a basic AI
+SOFT-003[UX]{Blaze S}: Astroship v2026.1 shall allow two humans play against each other anywhere on or above Earth using 0.5 Mbps or faster WiFi or cellular connection.
+SOFT-004[UX]{Blaze S}: Astroship v2026.2 (or higher) shall have a single player local game mode that uses a on device Apple Foundation model and also a two human mode.
 
 SOFT-001[Logs]{Blaze S}: Software tools utilized within the Engineering Development Rack environment should preserve historical test data with added user comments to maintain sufficient audit information to allow engineering investigation of failures occurring during qualification activities.
 SOFT-002[UX]{Blaze S}: Software systems connected to Engineering Development Racks shall support automated issue tracking platforms such as Jira.
@@ -142,7 +136,7 @@ SYSA-003[Process]{Blaze S}: All external libraries use shall be on the approved 
 
 SYSA-004[Logs]{CD}: Astroship v2026.0 to at least v2026.3 shall use Apple's "Game Center" backend to handle ranking, small profiles, single sign on.
 
-SYSA-005[Logs]{Blaze S}: Astroship v2026.4 (or higher) may use a 32 GB RAM Linux Virtual Private Server (VPS) and a Python FastAPI backend to enable cross platform play with Android or the web and more detailed gameplay level analytics, and anti-cheat (that runs well on all Linux Desktop distros).
+SYSA-005[Logs]{Blaze S}: Astroship v2026.4 (or higher) may use a 32 GB RAM Linux Virtual Private Server (VPS) and opensource Python FastAPI backend to enable cross platform play with Android or the web and more detailed gameplay level analytics, and anti-cheat (that runs well on all Linux Desktop distros released after Jan 2022) to sync multiplayer matches and allow long term support of game even if Sol-X goes out of business. 
 
 SYSA-006[Quality]{Blaze S}: Astroship v2027.0 (or lower) shall never place ads anywhere on the screen.
 <br><br>
