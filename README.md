@@ -112,6 +112,10 @@ SOFT-002[UX]{CD}: Astroship v2026.0 shall have a single player local game mode w
 SOFT-003[UX]{Blaze S}: Astroship v2026.1 shall allow two humans play against each other anywhere on or above Earth using 0.5 Mbps or faster WiFi or cellular connection.
 SOFT-004[UX]{Blaze S}: Astroship v2026.2 (or higher) shall have a single player local game mode that uses a on device Apple Foundation model and also a two human mode.
 
+
+As soon as you finish a level in solo play you can invite others. So even if the level is paid for, people can invite others to try it out before they pay for it. 
+
+
 SOFT-001[Logs]{Blaze S}: Software tools utilized within the Engineering Development Rack environment should preserve historical test data with added user comments to maintain sufficient audit information to allow engineering investigation of failures occurring during qualification activities.
 SOFT-002[UX]{Blaze S}: Software systems connected to Engineering Development Racks shall support automated issue tracking platforms such as Jira.
 <br><br>
