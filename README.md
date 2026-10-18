@@ -79,6 +79,33 @@ TestFlight Beta: Coming Oct 18, 2026
 App Store Public Release: Coming Oct 31, 2026
 * v20206.0: Minimally Viable Product with basis graphic, audio, and local single player game play loop. 
 * v20206.1: TODO
+
+ATP.fm ad spots
+
+I'm game to close source and framework
+
+Game Center open source no Pull Requests and dev as a social outreach
+
+Try Battleship games in Apple App Store
+
+Ranking are higher in puzzle games then battle games
+
+https://apps.apple.com/us/app/the-battle-of-polytopia/id1006393168
+The Battle of Polytopia
+
+Blaze marketing raising money Kikstarter, and python / linux backend 
+
+SWOT_Analysis.md of "Battleship" clones
+
+Timer level with radar punishments
+
+Two or three free themese and sell three other themes on Pro versions
+
+Myteror of new game levles
+After 3 levels the themes switch
+
+
+Touch surface could be flipped from vertical to horticonal if it moves to much
   
 ### 2.1	Hardware Block Diagram
 TODO
@@ -100,7 +127,7 @@ ELEC-002[Interface]{TODO}: All test slot infrasturture shall use TODO Part Numbe
 ### 3.2	Mechanical Requirements (MECH-###)
 MECH-001[Performance]{Blaze S}: Astroship v2026.0 (or higher) shall run on any iPhone Duo or iPhone 18 or iPhone Pro Max model purchased after October 2026.
 
-MECH-002[Performance]{Blaze S}: Astroship v2026.4 (or higher) shall run on any Apple TV or Apple Vision Pro model purchased after TODO.
+MECH-002[Performance]{Blaze S}: Astroship v2026.4 (or higher) shall run on any MacOS (Tahoe OS26) Apple TV or Apple Vision Pro model purchased after TODO.
 
 MECH-004[UX]{Blaze S}: Astroship v2026.1 (or higher) may support [Apple Pencil (USB-C)](https://www.apple.com/xc/product/MUWA3AM/A).
 
