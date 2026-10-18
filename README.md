@@ -104,7 +104,7 @@ MECH-002[Performance]{Blaze S}: Astroship v2026.4 (or higher) shall run on any A
 
 MECH-004[UX]{Blaze S}: Astroship v2026.1 (or higher) may support [Apple Pencil (USB-C)](https://www.apple.com/xc/product/MUWA3AM/A).
 
-MECH-005[Color]{Blaze S}: Sol-X LLC shall sell a custom vinyl wrapper for the [Apple Pencil (USB-C)](https://www.apple.com/xc/product/MUWA3AM/A) at www.astroship.store starting Dec 2026.
+MECH-005[Color]{Blaze S}: Sol-X LLC shall sell a custom vinyl wrapper for the [Apple Pencil (USB-C)](https://www.apple.com/xc/product/MUWA3AM/A) at www.astroship.store starting Dec 2026 from [Decal Girl website](https://www.decalgirl.com/products/custom-apple-pencil-skin?variant=51649275953523&country=US&currency=USD&gad_campaignid=23527328328&gbraid=0AAAAAD_rqzbW1dad77YBtB_bFoUCcg4tq)
 <br><br>
 
 ### 3.3	Software Requirements (SOFT-###)
