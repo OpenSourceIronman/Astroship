@@ -67,7 +67,7 @@ In expressing requirements, the following terminology will be used:
 <br><br>
 
 ### 2	Introduction
-Release Price: $0 with $2 upgrade to Astroship Pro for multiplayer 
+Release Price: $0 with $1 upgrade to Astroship Pro for multiplayer and unlocked levels
 Post Kickstart Price: $4.69 per iPhone
 Jan 2028 Price: $8 per year 
 
