@@ -67,8 +67,9 @@ In expressing requirements, the following terminology will be used:
 <br><br>
 
 ### 2	Introduction
-Release Day (Oct 31) Price: $0 with $1 upgrade ton Astroship Pro
-Price: $4.69 per iPhone
+Release Price: $0 with $2 upgrade to Astroship Pro for multiplayer 
+Post Kickstart Price: $4.69 per iPhone
+Jan 2028 Price: $8 per year 
 
 TestFlight Beta: Coming Oct 18, 2026
 * blaze.d.a.sanders@gmail.com 
