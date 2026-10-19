@@ -74,7 +74,8 @@ Jan 2028 Price: $8 per year
 TestFlight Beta: Coming Oct 18, 2026
 * blaze.d.a.sanders@gmail.com 
 * i@blazesanders.com
-* mikeumus@protonmail.com 
+* mikeumus@protonmail.com
+* junk@micahhenrie.com
 
 App Store Public Release: Coming Oct 31, 2026
 * v20206.0: Minimally Viable Product with basis graphic, audio, and local single player game play loop. 
