@@ -32,6 +32,10 @@ The final end card holds 9 seconds over music, no voiceover.
 "Please share this QR code and astroship.store/kickstarter link with everyone you plan to beat in Astroship"
 
 
+The price ladder is your best urgency beat. $1 for Astroship Pro now, $4.69 per iPhone after the Kickstarter, $8/year from Jan 2028. "Back today or pay five times more later" writes itself.
+"Anywhere on or above Earth" — that's the PRD's actual line for head-to-head play over 0.5 Mbps Wi-Fi or cellular. It's fun, it's authentic, and it belongs in the video.
+
+
 ## Fill in these 8 blanks
 
 1. **ONE-LINE PITCH** — genre + core fantasy, ~12 words
