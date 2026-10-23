@@ -32,7 +32,7 @@ The final end card holds 9 seconds over music, no voiceover.
 
 [1:11–1:36] WHY KICKSTARTER — Roadmap graphic, beta footage:
 
-"The TestFlight beta is live today just visit www.astroship.store/beta, and we launch on the official app to the Apple App Store March 5, 2027 approximently three weeks after the end of the Kickstarter. We're raising $42,069 to get there as quick as possible with more themes, more levels, and the polish a tiny independent team can only buy with your help. At official launch the game itself will be free, and one dollar unlocks Astroship Pro, forever. However starting in Jan 2028 (12 months from today), we may switch to a $8 per year subscription so we can keep updating the game and pay Cliffton. Your feedback here via a survey we send out on day 15 of the campaign will have a huge impact on the future of the game!"
+"The TestFlight beta is live today just visit www.astroship.store/beta, and we launch on the official app to the Apple App Store March 5, 2027 approximently three weeks after the end of the Kickstarter. We're raising $42,069 to get there as quick as possible with more themes, more levels, and the polish a tiny independent team can only buy with your help. At official launch the game itself will be free, and one dollar unlocks Astroship Pro, forever. However starting in Jan 2028 (12 months from today), we may switch to a $8 per year subscription so we can keep updating the game and pay Cliffton. Your feedback on this topic via a survey we send out on day 15 of the campaign will have a huge impact on the future of the game!"
 <br><br>
 
 [1:36–1:51] THE ASK — Reward tiers on screen, end card with campaign URL:
