@@ -67,9 +67,11 @@ In expressing requirements, the following terminology will be used:
 <br><br>
 
 ### 2	Introduction
-Release Price: $0 with $1 upgrade to Astroship Pro for multiplayer and unlocked levels
+Release Price: $0 with two week trial and $4.69 upgrade to Astroship Pro for multiplayer and unlocked levels
 Post Kickstart Price: $4.69 per iPhone
 Jan 2028 Price: $8 per year 
+
+Because it’s way way more likely to go viral if the 4.69 is in app unlock with a free trial or some free levels than charging up front. So we’ll add in an unlock code panel somewhere out of the way. 
 
 TestFlight Beta: Coming Oct 18, 2026
 * blaze.d.a.sanders@gmail.com 
