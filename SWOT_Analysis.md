@@ -10,18 +10,21 @@ Who is our customer?
 Astroship   
 1. Strengths:
    * Not navy warship themed
-   * Minimal graphics
+   * Clean minimal graphics
    * Enviromental effects/ map hazards
-   * Alternate game modes
+   * Fresh game modes/ mechanics
 2. Weaknesses:
-   * Scope is not yet defined
-   * 
+   * Scope is not well defined
+   * 3 person team
+   * Little start up funding
+   * No clear monitization plan
 3. Opportunities:
    * Duo dropped and everyone wants something that uses a folding screen.
+   * Little to no invoation to battle ship like games in a long time
 4. Threats:
-   * Very crowded market
-   * Not first to Duo market
-   * 
+   * Very crowded market - may be hard to steal users
+   * Compititors have already shipped to the Duo
+   * Top competitiors have rich 3D graphics
 
 
 
