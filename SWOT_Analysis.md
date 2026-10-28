@@ -7,20 +7,22 @@ Who is our customer?
 3. iOS
 4. iPadOS
 
-[Warships: Sea Battle PvP](https://apps.apple.com/us/app/warships-sea-battle-pvp/id6529545827
+Astroship   
 1. Strengths:
-   * TODO
+   * Not navy warship themed
+   * Minimal graphics
+   * Enviromental effects/ map hazards
+   * Alternate game modes
 2. Weaknesses:
-   * TODO
+   * Scope is not yet defined
+   * 
 3. Opportunities:
-   * TODO
+   * Duo dropped and everyone wants something that uses a folding screen.
 4. Threats:
-   * TODO
+   * Very crowded market
+   * Not first to Duo market
+   * 
 
-
-https://apps.apple.com/ie/app/fleetfold/id6817450309
-
-https://apps.apple.com/us/app/battlefleet-duo/id6811120963
 
 
 | Game Name                     | Battleship                                              | Fleet Battle: Sea Battle PvP                                          | Sea Battle 2                                           | Space Battle - Sea Battle                                         | Torpedo                                                                             | Battlefleet Duo                                           | Warships: Sea Battle PvP                                           | FleetFold                                            | Sea Battle for Friends Online                                            |
