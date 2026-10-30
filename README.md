@@ -2,6 +2,7 @@
 An iPhone Duo multiplayer grid-based battle game for friends, family, and enemies. 
 <br><br>
 
+
 <img width="1024" height="1024" alt="astroship-app-icon" src="https://github.com/user-attachments/assets/b84363ac-5d18-49e3-89e1-95950c1d05e9" />
 
 ## Product Requirement Document Table of Contents:
@@ -44,6 +45,7 @@ Table 1 – Local document acronyms and initialisms <br>
 
 <br><br>
 
+
 ### 1	Document Purpose 
 This document defines both the business and engineering requirements for Astroship, a multiplayer grid-based battle game.
 
@@ -65,6 +67,7 @@ In expressing requirements, the following terminology will be used:
 * note is used for informational context and is not required to implement the specification 
 <br><br>
 
+
 ### 2	Introduction
 Release Price: $0 with $4.69 upgrade to Astroship Pro for multiplayer via a two week trial
 Post Kickstarter Price: $4.69 per iPhone
@@ -73,29 +76,25 @@ Jan 2028 Price: $8 per year
 TestFlight Beta: Coming Dec 12, 2026
 * v20206.0: Minimally Viable Product with basis graphic, audio, and local single player game play loop.
 * v20206.1: Online play enabled with Game Center integration and accessibility features 
+
+Kickstarter Campaign: Coming Jan 12, 2027
+* ATP.fm podcast ad running Jam 14, 2027
+* Release daily post on Kickstarter for 30 days using prewritten blog
+* Release business model poll Jan 29 to get feedback on $8/year subscription 
   
 App Store Public Release: Coming April 14, 2026
 * v20207.X: TODO
-
-ATP.fm ad spots
-
-I'm game to close source and framework
+<br><br>
 
 
-Blaze marketing raising money Kikstarter, and python / linux backend 
-
-Timer level with radar punishments
-
-Two or three free themese and sell three other themes on Pro versions
-
-Touch surface could be flipped from vertical to horticonal if it moves to much
-  
 ### 2.1	Hardware Block Diagram
 TODO
+<br><br>
 
 
 ### 2.2	Principle Functionality Explained
 TODO
+<br><br>
 
 
 ### 3	Functional Requirements
@@ -107,6 +106,7 @@ ELEC-001[Power]{TODO}: An Engineering Development Rack shall operating using two
 ELEC-002[Interface]{TODO}: All test slot infrasturture shall use TODO Part Numbers TODO as the Console Switch and Cisco Part Number TODO  as the Management Switch.
 <br><br>
 
+
 ### 3.2	Mechanical Requirements (MECH-###)
 MECH-001[Performance]{Blaze S}: Astroship v2026.0 (or higher) shall run on any iPhone Duo Apple TV, MacOS 27 or higher or iPhone 17 or higher purchased after October TODO.
 
@@ -115,10 +115,11 @@ MECH-004[UX]{Blaze S}: Astroship v2026.1 (or higher) may support [Apple Pencil (
 MECH-005[Color]{Blaze S}: Sol-X LLC shall sell a custom vinyl wrapper for the [Apple Pencil (USB-C)](https://www.apple.com/xc/product/MUWA3AM/A) at www.astroship.store starting Dec 2026 from [Decal Girl website](https://www.decalgirl.com/products/custom-apple-pencil-skin?variant=51649275953523&country=US&currency=USD&gad_campaignid=23527328328&gbraid=0AAAAAD_rqzbW1dad77YBtB_bFoUCcg4tq)
 <br><br>
 
+
 ### 3.3	Software Requirements (SOFT-###)
 SOFT-001[Process]{Blaze S}: All Astroship Swift code shall be open source and accept pull requests until at least v2027.0 as developer social outreach tool.
 
-SOFT-002[UX]{CD}: Astroship v2026.0 shall have a single player local game mode with a very basic AI opponent.
+SOFT-002[UX]{TODO}: Astroship v2026.0 shall have a single player local game mode with a very basic AI opponent.
 
 SOFT-003[UX]{Blaze S}: Astroship v2026.1 shall allow two humans play against each other anywhere on or above Earth using 0.5 Mbps or faster WiFi or cellular connection.
 
@@ -145,11 +146,11 @@ SYSA-002[QA]{Blaze S}: Astroship shall use calendar version number (e.g. v2026.1
 
 SYSA-003[Process]{Blaze S}: All external libraries use shall be on the approved vendor list (AVL) as defined here (TelemetryDeck).
 
-SYSA-004[Logs]{CD}: Astroship v2026.0 to at least v2026.3 shall use Apple's "Game Center" backend to handle ranking, small profiles, single sign on.
+SYSA-004[Logs]{TODO}: Astroship shall use Apple's "Game Center" backend to handle ranking, small profiles, single sign on.
 
-SYSA-005[Logs]{Blaze S}: Astroship v2026.4 (or higher) may use a 32 GB RAM Linux Virtual Private Server (VPS) and opensource Python FastAPI backend to enable cross platform play with Android or the web and more detailed gameplay level analytics, and anti-cheat (that runs well on all Linux Desktop distros released after Jan 2022) to sync multiplayer matches and allow long term support of game even if Sol-X goes out of business. 
+SYSA-005[Logs]{Blaze S}: Astroship v2028.0 (or higher) may use a 32 GB RAM Linux Virtual Private Server (VPS) and opensource Python FastAPI backend to enable cross platform play with Android or the web and more detailed gameplay level analytics, and anti-cheat (that runs well on all Linux Desktop distros released after Jan 2022) to sync multiplayer matches and allow long term support of game even if Sol-X goes out of business. 
 
-SYSA-006[Quality]{Blaze S}: Astroship v2028.0 (or lower) shall never place ads anywhere on the screen.
+SYSA-006[Quality]{Blaze S}: Astroship v2027.X (or lower) shall never place ads anywhere on the screen.
 <br><br>
 
 
