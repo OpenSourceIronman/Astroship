@@ -25,6 +25,11 @@ Astroship
    * Very crowded market - may be hard to steal users
    * Compititors have already shipped to the Duo
    * Top competitiors have rich 3D graphics
+  
+The UNO game is pretty popular and that works with PlayStation and every user having their own phone version synced to the game. It’s a bit harder to setup than it would be with just apple devices, because it runs through Sony servers instead of the local network, but it’s probably the only way to have everyone keep their own board visible. That’s a bunch more work to setup, and a design challenge, to make sure it’s seamless. But each person with their own phone version synced to a TV would be interesting I think. I’d put it higher on the list of future features, maybe even add it as an advanced stretch goal beyond the TV version. 
+
+https://apps.apple.com/us/app/the-battle-of-polytopia/id1006393168
+The Battle of Polytopia
 
 
 
