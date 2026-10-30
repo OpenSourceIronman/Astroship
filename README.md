@@ -1,10 +1,10 @@
 # Astroship
-iPhone Duo multiplayer grid-based battle game for friends, family, and enemies. 
+An iPhone Duo multiplayer grid-based battle game for friends, family, and enemies. 
 <br><br>
 
-## Astroship Product Requirement Document: 
+<img width="1024" height="1024" alt="astroship-app-icon" src="https://github.com/user-attachments/assets/b84363ac-5d18-49e3-89e1-95950c1d05e9" />
 
-## Table of Contents
+## Product Requirement Document Table of Contents:
 ### 1	Document Purpose  TODO
 ### 1.1	Requirement Identifiers TODO
 ### 2	Introduction	TODO
@@ -30,20 +30,22 @@ Table 0 – Document version history <br>
 |Version |Date       |Author(s)     |Notes                                                                              |
 |--------|-----------|--------------|-----------------------------------------------------------------------------------|
 | A	     | 2026-10-13|Blaze Sanders |Initial document with skeleton based on Table of Contents                          |
+| B      | 2026-10-30|Blaze Sanders |First public open source version with new Sol-X assets and Swift code              |
+
 <br><br>  
 
 
 ## Abbreviations & Terminology
-See full list at https://github.com/Blaze-Hyve/Hyve-Solutions-Acronym-Initialism <br> 
 
 Table 1 – Local document acronyms and initialisms <br>
 |Term	   |Definition                                                                                                    |
 |--------|--------------------------------------------------------------------------------------------------------------|
 |SKU     | Stock Keeping Unit, See https://en.wikipedia.org/wiki/Stock_keeping_unit                                     |
+
 <br><br>
 
 ### 1	Document Purpose 
-This document defines the business and engineering requirements for an iPhone Duo multiplayer grid-based battle game.
+This document defines both the business and engineering requirements for Astroship, a multiplayer grid-based battle game.
 
 #### 1.1	Requirement Identifier 
 Each requirement has a unique identifier according to the following structure: Domain-<Number>[Tag]{Author} (e.g. SYSA-001[QC]{Blaze S} = System Attribute #1 regarding Quality Control authored by Blaze Sanders). 
@@ -64,45 +66,27 @@ In expressing requirements, the following terminology will be used:
 <br><br>
 
 ### 2	Introduction
-Release Price: $0 with two week trial and $4.69 upgrade to Astroship Pro for multiplayer and unlocked levels
-Post Kickstart Price: $4.69 per iPhone
+Release Price: $0 with $4.69 upgrade to Astroship Pro for multiplayer via a two week trial
+Post Kickstarter Price: $4.69 per iPhone
 Jan 2028 Price: $8 per year 
 
-Because it’s way way more likely to go viral if the 4.69 is in app unlock with a free trial or some free levels than charging up front. So we’ll add in an unlock code panel somewhere out of the way. 
-
-TestFlight Beta: Coming Oct 18, 2026
-* blaze.d.a.sanders@gmail.com 
-* i@blazesanders.com
-* mikeumus@protonmail.com
-* junk@micahhenrie.com
-
-App Store Public Release: Coming Oct 31, 2026
-* v20206.0: Minimally Viable Product with basis graphic, audio, and local single player game play loop. 
-* v20206.1: TODO
+TestFlight Beta: Coming Dec 12, 2026
+* v20206.0: Minimally Viable Product with basis graphic, audio, and local single player game play loop.
+* v20206.1: Online play enabled with Game Center integration and accessibility features 
+  
+App Store Public Release: Coming April 14, 2026
+* v20207.X: TODO
 
 ATP.fm ad spots
 
 I'm game to close source and framework
 
-Game Center open source no Pull Requests and dev as a social outreach
-
-The UNO game is pretty popular and that works with PlayStation and every user having their own phone version synced to the game. It’s a bit harder to setup than it would be with just apple devices, because it runs through Sony servers instead of the local network, but it’s probably the only way to have everyone keep their own board visible. That’s a bunch more work to setup, and a design challenge, to make sure it’s seamless. But each person with their own phone version synced to a TV would be interesting I think. I’d put it higher on the list of future features, maybe even add it as an advanced stretch goal beyond the TV version. 
-
-Try Battleship games in Apple App Store
-
-https://apps.apple.com/us/app/the-battle-of-polytopia/id1006393168
-The Battle of Polytopia
 
 Blaze marketing raising money Kikstarter, and python / linux backend 
-
-SWOT_Analysis.md of "Battleship" clones
 
 Timer level with radar punishments
 
 Two or three free themese and sell three other themes on Pro versions
-
-Myteror of new game levles
-After 3 levels the themes switch
 
 Touch surface could be flipped from vertical to horticonal if it moves to much
   
@@ -132,23 +116,22 @@ MECH-005[Color]{Blaze S}: Sol-X LLC shall sell a custom vinyl wrapper for the [A
 <br><br>
 
 ### 3.3	Software Requirements (SOFT-###)
-SOFT-002[UX]{CD}: Astroship v2026.0 shall have a single player local game mode with a basic AI
+SOFT-001[Process]{Blaze S}: All Astroship Swift code shall be open source and accept pull requests until at least v2027.0 as developer social outreach tool.
+
+SOFT-002[UX]{CD}: Astroship v2026.0 shall have a single player local game mode with a very basic AI opponent.
+
 SOFT-003[UX]{Blaze S}: Astroship v2026.1 shall allow two humans play against each other anywhere on or above Earth using 0.5 Mbps or faster WiFi or cellular connection.
+
 SOFT-004[UX]{Blaze S}: Astroship v2026.2 (or higher) shall have a single player local game mode that uses a on device Apple Foundation model and also a two human mode.
 
-
-As soon as you finish a level in solo play you can invite others. So even if the level is paid for, people can invite others to try it out before they pay for it. 
-
-
-SOFT-001[Logs]{Blaze S}: Software tools utilized within the Engineering Development Rack environment should preserve historical test data with added user comments to maintain sufficient audit information to allow engineering investigation of failures occurring during qualification activities.
-SOFT-002[UX]{Blaze S}: Software systems connected to Engineering Development Racks shall support automated issue tracking platforms such as Jira.
+SOFT-005[Logs]{Blaze S}: Software tools utilized should preserve historical test data with added user comments to maintain sufficient audit information to allow engineering investigation of failures occurring during qualification activities.
 <br><br>
 
 
 ### 3.4	Interface Requirements (INTE-###)
-INTE-001[UX]{Blaze S}: Astroship v2026.0 shall have adequate accessibility features to allow color blind and deaf people to play.  
+INTE-001[UX]{Blaze S}: Astroship v2026.1 shall have adequate accessibility features to allow color blind and deaf people to play.  
 
-INTE-002[UX]{Blaze S}: Astroship v2026.3 (or higher) shall have adequate accessibility features to allow blind people to play using a custom voice commands engine licensed from UX Lab Pro.
+INTE-002[UX]{Blaze S}: Astroship v2027.X (or higher) shall have adequate accessibility features to allow blind people to play using Siri AI.
 <br><br>
 
 
@@ -166,7 +149,7 @@ SYSA-004[Logs]{CD}: Astroship v2026.0 to at least v2026.3 shall use Apple's "Gam
 
 SYSA-005[Logs]{Blaze S}: Astroship v2026.4 (or higher) may use a 32 GB RAM Linux Virtual Private Server (VPS) and opensource Python FastAPI backend to enable cross platform play with Android or the web and more detailed gameplay level analytics, and anti-cheat (that runs well on all Linux Desktop distros released after Jan 2022) to sync multiplayer matches and allow long term support of game even if Sol-X goes out of business. 
 
-SYSA-006[Quality]{Blaze S}: Astroship v2027.0 (or lower) shall never place ads anywhere on the screen.
+SYSA-006[Quality]{Blaze S}: Astroship v2028.0 (or lower) shall never place ads anywhere on the screen.
 <br><br>
 
 
@@ -175,9 +158,9 @@ PROJ-001[Process]{Blaze S}: The Astroship product shall use GitHub Issues and Li
 
 PROJ-002[Schedule]{Blaze S}: All hardware purchases shall have a lead time of less then 7 days and use two-day or faster shipping to reduce down time. 
 
-PROJ-003[Process]{Blaze S}: All product communication shall be through the "Astroship" iMessage group with a rocket emoiji.
+PROJ-003[Process]{Blaze S}: All product communication shall be through the "Astroship Duo" iMessage group with a rocket emoiji.
 
-PROJ-004[Quailty]{Blaze S}: All Astroship product branding and marketing decision shall be made by Blaze Sanders the 100% owner of Sol-X LLC.
+PROJ-004[Quality]{Blaze S}: All Astroship product engineering, branding and marketing decision shall be made by Blaze Sanders the 100% owner of Sol-X LLC.
 
 PROJ-005[Quailty]{Blaze S}: All Astroship UX designs choices shall be reviewed by Carey before public release using Figma and GitHub Issues.
 <br><br>
@@ -200,4 +183,4 @@ CERT-001[Process]{Blaze S}: TODO
 2. To view SQLite database TODO.db or MySQL database TODO) use the following SQL statements:
 * SELECT * FROM  "Requirements" WHERE "note" LIKE '%See%' ORDER BY "id" ASC LIMIT 300 OFFSET 0;
 3. [Game Music Design](https://kierannolan.com/bitbas/)
-4. [Astroship Publif iCloud Drive](https://www.icloud.com/iclouddrive/0c3TvtRoM9aA2-rwyCfqRz08Q)
+4. [Astroship Private iCloud Drive](https://www.icloud.com/iclouddrive/0c3x8qLlcmu7eYAt8mL6EOcxw)
