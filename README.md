@@ -1,8 +1,5 @@
 # Astroship
-iPhone Duo multiplayer grid-based battle game for friends and family....and enemies. 
-
-<img width="639" height="712" alt="IMG_8937" src="https://github.com/user-attachments/assets/312211b9-2313-4085-988a-26c41de42cbb" />
-
+iPhone Duo multiplayer grid-based battle game for friends, family, and enemies. 
 <br><br>
 
 ## Astroship Product Requirement Document: 
@@ -93,8 +90,6 @@ The UNO game is pretty popular and that works with PlayStation and every user ha
 
 Try Battleship games in Apple App Store
 
-Ranking are higher in puzzle games then battle games
-
 https://apps.apple.com/us/app/the-battle-of-polytopia/id1006393168
 The Battle of Polytopia
 
@@ -108,7 +103,6 @@ Two or three free themese and sell three other themes on Pro versions
 
 Myteror of new game levles
 After 3 levels the themes switch
-
 
 Touch surface could be flipped from vertical to horticonal if it moves to much
   
@@ -130,9 +124,7 @@ ELEC-002[Interface]{TODO}: All test slot infrasturture shall use TODO Part Numbe
 <br><br>
 
 ### 3.2	Mechanical Requirements (MECH-###)
-MECH-001[Performance]{Blaze S}: Astroship v2026.0 (or higher) shall run on any iPhone Duo or iPhone 18 or iPhone Pro Max model purchased after October 2026.
-
-MECH-002[Performance]{Blaze S}: Astroship v2026.4 (or higher) shall run on any MacOS (Tahoe OS26) Apple TV or Apple Vision Pro model purchased after TODO.
+MECH-001[Performance]{Blaze S}: Astroship v2026.0 (or higher) shall run on any iPhone Duo Apple TV, MacOS 27 or higher or iPhone 17 or higher purchased after October TODO.
 
 MECH-004[UX]{Blaze S}: Astroship v2026.1 (or higher) may support [Apple Pencil (USB-C)](https://www.apple.com/xc/product/MUWA3AM/A).
 
@@ -140,7 +132,6 @@ MECH-005[Color]{Blaze S}: Sol-X LLC shall sell a custom vinyl wrapper for the [A
 <br><br>
 
 ### 3.3	Software Requirements (SOFT-###)
-SOFT-0001[UI]{Blaze S}: Astroship v2026.0 Swift UI front-end assets shall be licensed from UX Lab Pro.
 SOFT-002[UX]{CD}: Astroship v2026.0 shall have a single player local game mode with a basic AI
 SOFT-003[UX]{Blaze S}: Astroship v2026.1 shall allow two humans play against each other anywhere on or above Earth using 0.5 Mbps or faster WiFi or cellular connection.
 SOFT-004[UX]{Blaze S}: Astroship v2026.2 (or higher) shall have a single player local game mode that uses a on device Apple Foundation model and also a two human mode.
