@@ -1,7 +1,7 @@
 //  Grid.swift
 //  For use with the Astroship product line of Sol-X LLC
 //
-//  Created by Blaze Sanders on 2026-08-23
+//  Created by Blaze Sanders on 2026-10-31
 //  For support email dev@astroship.store
 
 // Standard libraries
@@ -16,12 +16,13 @@ MAX_SHIP_LENGTH = 5
 shipPhysicalShape = ["I", "X", "T" "Y"]
 shipCenterOfGravityForEachShapeWithInBoundingBox = [][]
 
-X   X X  XXX  X X
-X    X    X   XXX
-X   X X   X    X
+
+// X   X X  XXX  X X
+// X    X    X   XXX
+// X   X X   X    X
 
 /**
- Represent battle grid data structure
+ Represents battle grid data structure
  
  - Parameters:
    - shipPhysicalShape: Ship layout once placed on grid
@@ -36,11 +37,11 @@ struct ShipAsset: Identifiable{
     
     var description: String {
         """
-        👤 Grid Info:
+        ⊞ Grid Info:
           • X-Axis Length:  \(xAxislength)
           • Y-Axis Length:  \(xlyAxislength)
-          • My Grid: \(myGridState)
-          • Opponent Grid: \(opponentGridState)
+          • My Grid:        \(myGridState)
+          • Opponent Grid:  \(opponentGridState)
 
         """
     }
