@@ -1,21 +1,26 @@
 //  Grid.swift
-//  For use with the Astroship product line of Sol-X LLC
 //
-//  Created by Blaze Sanders on 2026-08-23
-//  For support email dev@astroship.store
+//  Created by Blaze Sanders on 2026-10-31
+//  For support email dev@astroship.store at Sol-X LLC
 
 // Standard libraries
-import SwiftData                // Instead of "import Foundation", "SQLite" or "GRDB" (feature-rich SQLite toolkit in Swift)
+import SwiftData                // TODO or "GRDB" (feature-rich SQLite toolkit in Swift)
 import Foundation
 import DeveloperToolsSupport    // Used to define images in "GridAsset" struct
 import SwiftUI                  // Used to define SF Symbols in "GridAsset" struct
 
 // External libraries
 
+// enum namespace
+enum GRID_CONSTANTS{
+    static let MAX_NUMBER_OF_SHIPS = 7
+    static let NOT_A_NUMBER = -1
+    static let ONLY_2D = 0
+}
+
 
 /**
  Represent battle grid data structure
- 
 
  - Parameters:
    - xAxislength: The unique identifier for the user profile instance (Satisfies Identifiable protocol)
@@ -23,7 +28,7 @@ import SwiftUI                  // Used to define SF Symbols in "GridAsset" stru
    - myGridState: 
    - opponentGridState:
 */ 
-struct GridAsset: Identifiable{
+struct GridAsset {
     var xAxislength = 14
     var yAxislength = 10
     
@@ -33,19 +38,23 @@ struct GridAsset: Identifiable{
     // "S" = Ship not Hit
     // "R" = RADAR
     // "F" = Fog of War
-    // 
+
     var myGridState = [String][String]
+    var myShipLayout = [GRID_CONSTANTS.MAX_NUMBER_OF_SHIPS]
     var opponentGridState = [String][String]
+    var opponentShipLayout = [GRID_CONSTANTS.MAX_NUMBER_OF_SHIPS]
     
     
     var description: String {
         """
-        👤 Grid Info:
+        ⊞ Grid Info:
           • X-Axis Length:  \(xAxislength)
-          • Y-Axis Length:  \(xlyAxislength)
-          • My Grid: \(myGridState)
-          • Opponent Grid: \(opponentGridState)
-
+          • Y-Axis Length:  \(yAxislength)
+          • My Grid:        \(myGridState)
+          • My Ships:       \(myShipLayout)
+          • Opponent Grid:  \(opponentGridState)
+          • Opponent Ships: \(opponentShipLayout)
+        
         """
     }
 
