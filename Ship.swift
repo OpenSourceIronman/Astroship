@@ -13,7 +13,9 @@ import SwiftUI                  // Used to define SF Symbols in "GridAsset" stru
 // External libraries
 
 MAX_SHIP_LENGTH = 5
-shipPhysicalShape = ["I", "X", "T" "Y"]
+SHIP_PHYSICAL_SHAPE = ["I", "X", "T" "Y"]
+SHIP_SKIN = ["Yellow", "SunWars", "CombustionFly", "SunTrek", "Red"]
+
 shipCenterOfGravityForEachShapeWithInBoundingBox = [][]
 
 
@@ -30,8 +32,9 @@ shipCenterOfGravityForEachShapeWithInBoundingBox = [][]
    - 
 */ 
 struct ShipAsset: Identifiable{
-    var shape = shipPhysicalShape[0]
+    var shape = SHIP_PHYSICAL_SHAPE[0]
     var length = 3
+    var skin = SHIP_SKIN[0]
     
     var shipGridLocation = [0][10]
     
