@@ -69,6 +69,9 @@ In expressing requirements, the following terminology will be used:
 
 
 ### 2	Introduction
+Source code for all Apple OS can be found at https://github.com/Sol-X-LLC/Astroship-Apple-Apps 
+Any source code in this repo is only for small scale testing and as example documentation.
+
 Release Price: $0 with $4.69 upgrade to Astroship Pro for multiplayer via a two week trial
 Post Kickstarter Price: $4.69 per iPhone
 Jan 2028 Price: $8 per year 
