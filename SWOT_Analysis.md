@@ -24,11 +24,9 @@ Astroship
    * Competitors have already shipped to the Duo
    * Top competitiors have rich 3D graphics
   
-The UNO game is pretty popular and that works with PlayStation and every user having their own phone version synced to the game. It’s a bit harder to setup than it would be with just apple devices, because it runs through Sony servers instead of the local network, but it’s probably the only way to have everyone keep their own board visible. That’s a bunch more work to setup, and a design challenge, to make sure it’s seamless. But each person with their own phone version synced to a TV would be interesting I think. I’d put it higher on the list of future features, maybe even add it as an advanced stretch goal beyond the TV version. 
+The UNO card game is pretty popular and works with PlayStation where every user has their own phone session synced to the Apple TV. It’s harder to setup, a tougher UX design challenge to make weemless, and would require custom Sol-X servers instead of the local network, but it’s probably the only way to have everyone keep their own board visible.
 
-https://apps.apple.com/us/app/the-battle-of-polytopia/id1006393168
-The Battle of Polytopia
-
+The [Battle of Polytopia](https://apps.apple.com/us/app/the-battle-of-polytopia/id1006393168) has amazing Apple Game Center multiplayer integration and should be used at gold standard for Astroship 
 
 
 | Game Name                     | Battleship                                              | Fleet Battle: Sea Battle PvP                                          | Sea Battle 2                                           | Space Battle - Sea Battle                                         | Torpedo                                                                             | Battlefleet Duo                                           | Warships: Sea Battle PvP                                           | FleetFold                                            | Sea Battle for Friends Online                                            |
