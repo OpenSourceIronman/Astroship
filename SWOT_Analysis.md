@@ -1,29 +1,27 @@
 # [SWOT Analysis](https://higuide.elrha.org/methods/swot-analysis/?gad_campaignid=24004218648&gbraid=0AAAABDGKkP3d8g4OIkQqfeOqYWc4kdN2U)
 Top ten "Battleship" clones on the iOS App Store by total downloads (or ratings) TODO
 
-Who is our customer?
-1. Duo
-2. TvOS
-3. iOS
-4. iPadOS
+Who is Sol-X's customer for Astroship
+1. 2000 early adopters of technology that are willing to try the iphone Duo and have a game controller paired to an Apple TV. 
+2. People that game on MacOS or iPadOS are not in the v2026.1 target market, but maybe in the v2028.0 app. 
 
 Astroship   
 1. Strengths:
    * Not navy warship themed
    * Clean minimal graphics
    * Enviromental effects/ map hazards
-   * Fresh game modes/ mechanics
+   * Fresh game mechanics
+   * Clear monitization plan
 2. Weaknesses:
    * Scope is not well defined
    * 3 person team
    * Little start up funding
-   * No clear monitization plan
 3. Opportunities:
    * Duo dropped and everyone wants something that uses a folding screen.
    * Little to no invoation to battle ship like games in a long time
 4. Threats:
    * Very crowded market - may be hard to steal users
-   * Compititors have already shipped to the Duo
+   * Competitors have already shipped to the Duo
    * Top competitiors have rich 3D graphics
   
 The UNO game is pretty popular and that works with PlayStation and every user having their own phone version synced to the game. It’s a bit harder to setup than it would be with just apple devices, because it runs through Sony servers instead of the local network, but it’s probably the only way to have everyone keep their own board visible. That’s a bunch more work to setup, and a design challenge, to make sure it’s seamless. But each person with their own phone version synced to a TV would be interesting I think. I’d put it higher on the list of future features, maybe even add it as an advanced stretch goal beyond the TV version. 
