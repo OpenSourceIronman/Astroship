@@ -2,6 +2,9 @@
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
+# File created using "git diff > diff.txt" command to pass to LLM's to write git commit -m "X" messages. 
+diff.txt
+
 # MacOS folder metadata
 .DS_Store
 
