@@ -77,16 +77,16 @@ Release Price: $0 with $4.69 upgrade to Astroship Pro for online multiplayer via
 Jan 2028 Price: $8 per year 
 
 TestFlight Beta: Coming Dec 12, 2026
-* v20206.0: Minimally Viable Product with basis graphic, audio, and local single player game play loop.
-* v20206.1: Online play enabled with Game Center integration and accessibility features 
+* v2026.0: Minimally Viable Product with basis graphic, audio, and local single player game play loop.
+* v2026.1: Online play enabled with Game Center integration and accessibility features 
 
 Kickstarter Campaign: Coming Jan 12, 2027
-* ATP.fm podcast ad running Jam 14, 2027
+* ATP.fm podcast ad running Jan 14, 2027
 * Release daily post on Kickstarter for 30 days using prewritten blog
 * Release business model poll Jan 29 to get feedback on $8/year subscription 
   
 App Store Public Release: Coming April 14, 2026
-* v20207.X: TODO
+* v2027.X: TODO
 <br><br>
 
 
@@ -105,10 +105,6 @@ Functional requirements define observable and measurable behavior expected from 
 
 ### 3.1	Electrical Requirements (ELEC-###)
 ELEC-001[Power]{TODO}: An Engineering Development Rack shall operating using two or less 480VAC NEMA?-? connectors at less than 20,000 Watts (W).
-
-ELEC-002[Interface]{TODO}: All test slot infrasturture shall use TODO Part Numbers TODO as the Console Switch and Cisco Part Number TODO  as the Management Switch.
-<br><br>
-
 
 ### 3.2	Mechanical Requirements (MECH-###)
 MECH-001[Performance]{Blaze S}: Astroship v2026.0 (or higher) shall run on any iPhone Duo Apple TV, MacOS 27 or higher or iPhone 17 or higher purchased after October TODO.
@@ -143,7 +139,7 @@ INTE-002[UX]{Blaze S}: Astroship v2027.X (or higher) shall have adequate accessi
 Non-Functional requirements are quality constraints that the system must satisfy according to the project contract. They are also called non-behavioral requirements. They deal with issues like: Portability, Security, Maintainability, Reliability, Scalability, Performance, and Reusability.
 
 ### 4.1	System Attributes Requirements (SYSA-###)
-SYSA-001[Testing]{Blaze S}: Astroship intergration and unit tests shall provide test reports demonstrating requirement validation (not verification) with strict acceptance criteria outlined the following TODO (3) requirements: INTE-001, INTE-002, and SOFT-034.  
+SYSA-001[Testing]{Blaze S}: Astroship integration and unit tests shall provide test reports demonstrating requirement validation (not verification) with strict acceptance criteria outlined the following TODO (3) requirements: INTE-001, INTE-002, and SOFT-005.  
 
 SYSA-002[QA]{Blaze S}: Astroship shall use calendar version number (e.g. v2026.1, v2027.42) in all public and internal releases.
 
@@ -162,11 +158,11 @@ PROJ-001[Process]{Blaze S}: The Astroship product shall use GitHub Issues and Li
 
 PROJ-002[Schedule]{Blaze S}: All hardware purchases shall have a lead time of less then 7 days and use two-day or faster shipping to reduce down time. 
 
-PROJ-003[Process]{Blaze S}: All product communication shall be through the "Astroship Duo" iMessage group with a rocket emoiji.
+PROJ-003[Process]{Blaze S}: All product communication shall be through the "Astroship Duo" iMessage & WhatsApp groups with yellow app icon.
 
 PROJ-004[Quality]{Blaze S}: All Astroship product engineering, branding and marketing decision shall be made by Blaze Sanders the 100% owner of Sol-X LLC.
 
-PROJ-005[Quailty]{Blaze S}: All Astroship UX designs choices shall be reviewed by Carey before public release using Figma and GitHub Issues.
+PROJ-005[Quality]{Blaze S}: All Astroship UX designs choices shall be reviewed by Carey before public release using Figma and GitHub Issues.
 <br><br>
 
 
