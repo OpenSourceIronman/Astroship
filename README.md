@@ -106,10 +106,6 @@ Functional requirements define observable and measurable behavior expected from 
 ### 3.1	Electrical Requirements (ELEC-###)
 ELEC-001[Power]{TODO}: An Engineering Development Rack shall operating using two or less 480VAC NEMA?-? connectors at less than 20,000 Watts (W).
 
-ELEC-002[Interface]{TODO}: All test slot infrastructure shall use TODO Part Numbers TODO as the Console Switch and Cisco Part Number TODO  as the Management Switch.
-<br><br>
-
-
 ### 3.2	Mechanical Requirements (MECH-###)
 MECH-001[Performance]{Blaze S}: Astroship v2026.0 (or higher) shall run on any iPhone Duo Apple TV, MacOS 27 or higher or iPhone 17 or higher purchased after October TODO.
 
@@ -162,7 +158,7 @@ PROJ-001[Process]{Blaze S}: The Astroship product shall use GitHub Issues and Li
 
 PROJ-002[Schedule]{Blaze S}: All hardware purchases shall have a lead time of less then 7 days and use two-day or faster shipping to reduce down time. 
 
-PROJ-003[Process]{Blaze S}: All product communication shall be through the "Astroship Duo" iMessage group with a rocket emoji.
+PROJ-003[Process]{Blaze S}: All product communication shall be through the "Astroship Duo" iMessage & WhatsApp groups with yellow app icon.
 
 PROJ-004[Quality]{Blaze S}: All Astroship product engineering, branding and marketing decision shall be made by Blaze Sanders the 100% owner of Sol-X LLC.
 
